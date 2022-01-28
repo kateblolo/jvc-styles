@@ -17,8 +17,6 @@
 	/* Le reste */
     $('.card-header').css('background-color', 'rgba(48, 148, 227,0.5');
     $('.contenu-spoil').css('background-color', '#deeafc');
-	
-	$('a.topic-title:visited').css('background-color', '#757575');
 
 
     if($('body').css('background-color') == 'rgb(34, 37, 42)'){
